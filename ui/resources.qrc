@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="myplugin">
+        <file>../images/icon.jpg</file>
+    </qresource>
+    <qresource prefix="imgBase">
+    	<file>../images/base.png</file>
+    </qresource>
+</RCC>
